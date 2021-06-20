@@ -1,4 +1,4 @@
-# dragnode
+# Dragnode
 
 Just a concept: 
 draggable nodes with connection lines in a scale and pan scene. 
